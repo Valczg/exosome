@@ -5,6 +5,8 @@
 -  [Cells Talk in a Language That Looks Like Viruses](https://www.quantamagazine.org/cells-talk-in-a-language-that-looks-like-viruses-20180502/)
 _Live viruses may seem completely different from the message-carrying vesicles that cells release. But a vast population of particles intermediate between the two hints at their deep evolutionary connection._
 - Grandi, N. and Tramontano, E., 2018. [HERV Envelope Proteins: Physiological Role and Pathogenic Potential in Cancer and Autoimmunity.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5861771/) Frontiers in microbiology, 9, p.462. 
+- Wan, Y., Cheng, G., Liu, X., Hao, S.J., Nisic, M., Zhu, C.D., Xia, Y.Q., Li, W.Q., Wang, Z.G., Zhang, W.L. and Rice, S.J., 2017. [Rapid magnetic isolation of extracellular vesicles via lipid-based nanoprobes.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5618714/) Nature biomedical engineering, 1(4), p.0058. 
+  - they may have the sequencing data at SRA SRP090235, see below
 
 #### From the lung cancer exo dna discussion:
 - Kahlert C et al. 2014. J Biol Chem - cell lines and serum of 2 patients using shot-gun seq. 
@@ -38,6 +40,8 @@ legalaposabb keresésének/katalogizálásának:
   - http://www.ncbi.nlm.nih.gov/sra/SRX1136591[accn]
   - http://www.ncbi.nlm.nih.gov/sra/SRX959907[accn]
   - http://www.ncbi.nlm.nih.gov/sra/SRX958815[accn]
+#### Exosome DNA
+  - https://trace.ncbi.nlm.nih.gov/Traces/study/?acc=SRP090235 (breast, ? Wan et al Nature biomedical engineering , 2017?)
 
 
 
