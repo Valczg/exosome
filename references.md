@@ -4,9 +4,11 @@
 
 -  [Cells Talk in a Language That Looks Like Viruses](https://www.quantamagazine.org/cells-talk-in-a-language-that-looks-like-viruses-20180502/)
 _Live viruses may seem completely different from the message-carrying vesicles that cells release. But a vast population of particles intermediate between the two hints at their deep evolutionary connection._
-- Grandi, N. and Tramontano, E., 2018. [HERV Envelope Proteins: Physiological Role and Pathogenic Potential in Cancer and Autoimmunity.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5861771/) Frontiers in microbiology, 9, p.462. 
 - Wan, Y., Cheng, G., Liu, X., Hao, S.J., Nisic, M., Zhu, C.D., Xia, Y.Q., Li, W.Q., Wang, Z.G., Zhang, W.L. and Rice, S.J., 2017. [Rapid magnetic isolation of extracellular vesicles via lipid-based nanoprobes.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5618714/) Nature biomedical engineering, 1(4), p.0058. 
   - they may have the sequencing data at SRA SRP090235, see below
+- New Scientist, DAILY NEWS  12 November 2018 :
+https://www.dropbox.com/s/ddptn008tr48wlf/We%E2%80%99ve%20discovered%20a%20whole%20new%20defence%20system%20against%20germs%20in%20our%20noses%20_%20New%20Scientist.pdf?dl=0
+  - Original article: AL Nocera et al. [Exosome swarms eliminate airway pathogens and provide passive epithelial immunoprotection through nitric oxide](https://www.jacionline.org/article/S0091-6749(18)31351-4/fulltext) , Journal of Allergy and Clinical Immunology, DOI: 10.1016/j.jaci.2018.08.046
 
 #### From the lung cancer exo dna discussion:
 - Kahlert C et al. 2014. J Biol Chem - cell lines and serum of 2 patients using shot-gun seq. 
@@ -14,6 +16,8 @@ _Live viruses may seem completely different from the message-carrying vesicles t
 - Balaj L et al. 2011. Nature Communications
 
 ## HERV
+
+- Grandi, N. and Tramontano, E., 2018. [HERV Envelope Proteins: Physiological Role and Pathogenic Potential in Cancer and Autoimmunity.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5861771/) Frontiers in microbiology, 9, p.462. 
 
 #### From Viktor Müller
 - sosem-dohányzó tüdőrákok asszociáltak a HML-2 polimorf kópiájának homozigóta előfordulásával:  http://carcin.oxfordjournals.org/content/34/11/2531.long
